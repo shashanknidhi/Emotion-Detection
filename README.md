@@ -12,9 +12,7 @@ The emotion detection project is built using transfer learning on pre-trained CN
 
 ## Data Pre-processing and EDA:
  Original Image Size: 48X48
- Trainig Images: 28709
- Validation Images:7178
- Classes: 7 
+ Classes: 7 (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral)
 ## MobileNet Architecture:
 ![My Image](mobilenet_architecture.png)
 <br/>
